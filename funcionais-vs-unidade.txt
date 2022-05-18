@@ -1,0 +1,4 @@
+1) Testes de Unidade são rápidos e baratos, enquanto Testes Funcionais são demorados e caros;
+2) Testes de Unidade testam pequenas funções do sistema, como uma ramificação de um método
+    ou um método completo. Já Testes Funcionais testam uma funcionalidade completa, isto é
+    um fluxo grande de funções.
