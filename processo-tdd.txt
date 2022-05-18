@@ -1,0 +1,3 @@
+O fluxo de TDD com Testes Funcionais é um pouco diferente do TDD padrão, pois os Teste Funcionais são um passo anterior aos testes de unidade do TDD.
+Escreva um teste funcional, veja se falha, se sim, faça os mesmos passos TDD de unitário. Após passar, verifique se o codigo precisa de refatoração,
+se sim, volte para o fluxo TDD unitário, senão repita do início.
